@@ -11,7 +11,7 @@ summary: "My team modified a wheelchair to be usable on sand and the beach. This
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/IMG_20191219_195019_387.jpg" class="img-thumbnail" >
+  <img width="500px" src="../img/IMG_20191219_195019_387.jpg" class="img-thumbnail" >
 </div>
 
 The REACH Challenge is a competition where students design adaptive or assitive technological solutions for people in need within their community. It is a nationwide competition for middle and high school students. Students are expected to go out into their community and connect with people who face unique challenges in their day to day lives. They will then with the help of their advisors and the Educators Toolkit, engineer a solution for someone in need.
