@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/stemworks.png
+image: img/stemworks.jpg
 title: "Pots That Rot"
 date: 2020-2021
 published: true
