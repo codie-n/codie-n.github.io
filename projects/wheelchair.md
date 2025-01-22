@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/REACH_Challenge.png
 title: "Beach Wheelchair"
 date: 2019
 published: true
