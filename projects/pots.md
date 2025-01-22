@@ -23,5 +23,4 @@ My team was a group of 3, who over the course of 5 months iterated on a design o
 
 Talking with Paralypian Ann Yoshida was very insightful as I never had anyone close to me be wheelchair bound. From the challenging recovery process to the everyday difficulties, you couldn't help but feel inspired. Throughout the process of iterating on the wheelchair, I learned a lot about working efficiently as a team. This was the first time I had ever participated in an extracurricular project so I was a little out of my element. I realized that you have to have the guts to go ahead with an idea. You can't just keep brainstorming and only discuss your plan. You have to actually use your plan and take that leap.
 
-You can learn more at the [STEMworks Solutions Challenges](https://www.stemworkshawaii.org/stemworks-solutions).
-You can learn more at the [Hawaii Youth Sustainability Challenge - KUPU](https://www.kupuhawaii.org/hawaii-youth-sustainability-challenge).
+You can learn more at the [STEMworks Solutions Challenges](https://www.stemworkshawaii.org/stemworks-solutions) and the [Hawaii Youth Sustainability Challenge - KUPU](https://www.kupuhawaii.org/hawaii-youth-sustainability-challenge).
