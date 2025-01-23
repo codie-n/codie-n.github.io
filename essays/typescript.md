@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="750px" class="rounded float-start pe-4" src="../img/typescript-vs-javascript.jpg">
+<img width="350px" class="rounded float-start pe-4" src="../img/typescript-vs-javascript.jpg">
 
 buhbuh
 
