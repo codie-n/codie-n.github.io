@@ -1,0 +1,82 @@
+{
+  "basics": {
+    "name": "Codie Nakamura",
+    "label": "Student",
+    "picture": "https://github.com/codie-n.png",
+    "email": "codien@hawaii.edu",
+    "phone": "",
+    "website": "https://codie-n.github.io",
+    "summary": "I am studying for a B.A. in Information and Computer Sciences in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2026.",
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "codie-n", "url": "http://github.com/codie-n" },
+      { "network": "linkedin", "username": "Codie Nakamura", "url": "https://www.linkedin.com/in/codie-nakamura-15025sh/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Development" },
+    { "name": "Networking" },
+    { "name": "Data Science" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "Java", "Javascript", "Python"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "GitHub"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Information and Computer Sciences (expected Fall, 2026)",
+      "studyType": "B.A.",
+      "startDate": "2022-08-22",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa College of Education Fiscal Office/Admin Services",
+      "position": "Clerk Typist/Student Assistant",
+      "website": "",
+      "startDate": "2024-01-21",
+      "endDate": "Present",
+      "summary": "Handle incoming documents, process interdepartment files, archive old records",
+      "highlights": [
+        "Check, submit, and approve documents",
+        "Work with other COE departments to fix issues with documents"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
