@@ -11,6 +11,8 @@ labels:
 
 <img width="350px" class="rounded float-start pe-4" src="../img/typescript-vs-javascript.jpg">
 
+## Opening
+
 Let me start by prefacing my situation. I have not done consistent, intensive programming in my life for quite a while now. For the last two semesters I took at UH Manoa, I didn't actually take an ICS course nor did I barely even code in my free time. So after about a year, here I am returning to programming and computer science. In particular, I am currently taking ICS 314. Now in this course, I am being introduced to TypeScript for the first time in my life. Here's my very early, short take on it. 
 
 It's actually quite good and refreshing.
