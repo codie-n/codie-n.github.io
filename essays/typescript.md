@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="350px" class="rounded float-start pe-4" src="../img/typescript-vs-javascript.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/laptop.jpg">
 
 ## Opening
 
@@ -36,6 +36,8 @@ console.log("Hello World");
 ```
 
 I think this makes it quite clear which one was my favorite.
+
+<img width="350px" class="rounded float-start pe-4" src="../img/typescript-vs-javascript.jpg">
 
 ## Getting to TypeScript
 
