@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/laptop.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/thinking.jpg">
 
 ## Intro
 
@@ -403,3 +403,4 @@ First of all, the title is not even asking a proper question and is just throwin
 
 ## Conclusion
 
+At the end of the day, even if it's just online on a forum, your question is reaching a real person. Someone who is taking the time out of their day to read through your question. To get useful, productive answers your questions need to be clear and detailed so that people can actually answer them without having to pull out their hairs. The impression you make is imporant as well, if you come across as someone who's done their research and appreciates the help, people will respond in kind.
