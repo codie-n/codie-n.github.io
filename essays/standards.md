@@ -10,7 +10,7 @@ labels:
   - Coding Standards
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/coding-best-practices.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/coding-best-practices.jpg">
 
 ## Intro
 
