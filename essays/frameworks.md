@@ -10,7 +10,7 @@ labels:
   - UI Frameworks
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/Bootstrap-5-Facebbok.jpg">
+<img height="400px" class="rounded float-start pe-4" src="../img/Bootstrap-5-Facebbok.jpg">
 
 ## Intro
 
