@@ -10,7 +10,7 @@ labels:
   - Software Development
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/team.jpg">
+<img width="275px" class="rounded float-start pe-4" src="../img/team.jpg">
 
 ## What is Software Engineering?
 
@@ -18,11 +18,11 @@ Engineering can be described as the process of designing and constructing machin
 
 ## Functional Programming
 
-Part of the beauty of programming is that despite it being all ones and zeros, any function or goal can be achieved in a variety of ways. Now this isn't always necessarily a good thing as you can have code that is either wildly inefficient or total rat's nest, sometimes even both. To prevent this, people apply the concept of **Functional Programming**. By building "pure" functions, you can guarantee the exact same output for a particular input everytime. While also making sure that there are no global variables or data being changed by various functions. Using pure functions allows you to then use those functions as if they were variables or use them to construct bigger functions. Functional programming helps get rid of repetitive and possibly buggy code. 
+Part of the beauty of programming is that despite it being all ones and zeros, any function or goal can be achieved in a variety of ways. Now this isn't always necessarily a good thing as you can have code that is either wildly inefficient or total rat's nest, sometimes even both. To prevent this, people apply the concept of **Functional Programming**. By building "pure" functions, you can guarantee the exact same output for a particular input every time. While also making sure that there are no global variables or data being changed by various functions. Using pure functions allows you to then use those functions as if they were variables or use them to construct bigger functions. Functional programming helps get rid of repetitive and possibly buggy code. 
 
 ## User Interface Frameworks
 
-UI Frameworks to some can seem like just "styling" for the user but the concept encapsulates a lot more than just that. Beyond styling, it's also about the functional layout and innerworkings of using a software or program. Making sure a program does its job and achieves its purpose is only half of the work that goes into creating a robust and functional piece of software. You have to think about actually using it and how you are going to make using it efficient and intuitive. UI Frameworks streamline the process for you as the developer by providing key components to integrate into your software and key tools for fine tuning the entire thing. This provided structure allows for consistency within your program which becomes an even bigger deal when doing team oriented software development.
+UI Frameworks to some can seem like just "styling" for the user but the concept encapsulates a lot more than just that. Beyond styling, it's also about the functional layout and inner workings of using a software or program. Making sure a program does its job and achieves its purpose is only half of the work that goes into creating a robust and functional piece of software. You have to think about actually using it and how you are going to make using it efficient and intuitive. UI Frameworks streamline the process for you as the developer by providing key components to integrate into your software and key tools for fine tuning the entire thing. This provided structure allows for consistency within your program which becomes an even bigger deal when doing team oriented software development.
 
 ## Agile Project Management
 
@@ -30,4 +30,4 @@ When working as a team to develop something, it can be easy for everyone to get 
 
 ## Conclusion
 
-Software Engineering and its concepts are a way of thinking for any programmer or developer that allows them to code both smarter and faster. These concepts can also be seen as skills that you contiue to hone for the rest of your life just like your "programming" skills. They can be applied to a multitude of different problems and subjects, making anyone a better problem solver no matter the topic.
+Software Engineering and its concepts are a way of thinking for any programmer or developer that allows them to code both smarter and faster. These concepts can also be seen as skills that you continue to hone for the rest of your life just like your "programming" skills. They can be applied to a multitude of different problems and subjects, making anyone a better problem solver no matter the topic.
