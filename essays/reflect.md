@@ -10,7 +10,7 @@ labels:
   - Software Development
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/team.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/team.jpg">
 
 ## What is Software Engineering?
 
