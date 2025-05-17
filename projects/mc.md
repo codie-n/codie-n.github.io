@@ -45,6 +45,17 @@ We found the problem that many of the people you meet as college students are us
 
 I was in charge of making the user home page, the profile creation/editing page, and the schedule editing page. I was also an assistant project manager that helped oversee the entire project and make sure each member was on task through our implementation of agile project management.
 
+Here is the user profile page:
+<div class="text-center p-4">
+  <img width="1000px" src="../img/prof1.png" class="img-thumbnail" >
+  <img width="1000px" src="../img/prof2.png" class="img-thumbnail" >
+</div>
+
+And here is the edit profile page:
+<div class="text-center p-4">
+  <img width="1000px" src="../img/editprof.png" class="img-thumbnail" >
+</div>
+
 ## Developers
 
 - Aaron Ramos
