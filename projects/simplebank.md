@@ -4,7 +4,7 @@ type: project
 image: img/C_Programming_Language.png
 title: "Simple Banking System Simulation"
 date: 2023
-published: true
+published: false
 labels:
   - C
 summary: "For my ICS 212 class, I made a C program that simulates a simple banking system."
