@@ -21,11 +21,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "Java", "Javascript", "Python"]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "TypeScript", "NextJS", "React", "React Bootstrap"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "GitHub"]
+      "keywords": [ "Windows", "GitHub", "VSCode", "PostgreSQL"]
     }
   ],
   "education": [
