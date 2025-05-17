@@ -21,7 +21,7 @@ summary: "A group final project for my ICS 314 class where 4 of us built and des
 
 ## Overview
 
-We found the problem that many of the people you meet as college students are usually within the same majors and fields as you meet most of them in your classes or clubs related to your major. So this is where our website Manoa Connect comes in to allow UH Manoa students to meet people outside of their major and chat with them, making friends along the way. Our site has 4 main features:
+We found the problem that many of the people you meet as college students are usually within the same majors and fields as you meet most of them in your classes or clubs related to your major. So this is where our website Manoa Connect comes in to allow UH Manoa students to meet people outside of their major and chat with them, making friends along the way. To accomplish this, we used Postgres SQL for our database and a mix of TypeScript, ReactJS, React Bootstrap, and NextJS to make each page. Our site has 4 main features:
 
 - Creating/editing your profile
 <div class="text-center p-4">
