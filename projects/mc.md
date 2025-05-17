@@ -15,8 +15,8 @@ summary: "A group final project for my ICS 314 class where 4 of us built and des
 ---
 
 <div class="text-center p-4">
-  <img width="700px" src="../img/home.png" class="img-thumbnail" >
-  <img width="700px" src="../img/landing1.png" class="img-thumbnail" >
+  <img width="1000px" src="../img/home.png" class="img-thumbnail" >
+  <img width="1000px" src="../img/landing1.png" class="img-thumbnail" >
 </div>
 
 ## Overview
@@ -24,9 +24,22 @@ summary: "A group final project for my ICS 314 class where 4 of us built and des
 We found the problem that many of the people you meet as college students are usually within the same majors and fields as you meet most of them in your classes or clubs related to your major. So this is where our website Manoa Connect comes in to allow UH Manoa students to meet people outside of their major and chat with them, making friends along the way. Our site has 4 main features:
 
 - Creating/editing your profile
+<div class="text-center p-4">
+  <img width="1000px" src="../img/createProfile.png" class="img-thumbnail" >
+</div>
 - Editing your schedule
+<div class="text-center p-4">
+  <img width="1000px" src="../img/schedule.png" class="img-thumbnail" >
+</div>
 - Matching with others
+<div class="text-center p-4">
+  <img width="1000px" src="../img/cardfront.png" class="img-thumbnail" >
+  <img width="1000px" src="../img/cardback.png" class="img-thumbnail" >
+</div>
 - Chatting with friends
+<div class="text-center p-4">
+  <img width="1000px" src="../img/chat.png" class="img-thumbnail" >
+</div>
 
 ## Responsibilities
 
