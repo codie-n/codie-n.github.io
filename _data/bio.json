@@ -15,8 +15,7 @@
   },
   "interests": [
     { "name": "Software Development" },
-    { "name": "Networking" },
-    { "name": "Data Science" }
+    { "name": "Networking" }
   ],
   "skills": [
     {
@@ -33,12 +32,12 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "GitHub", "VSCode"]
+      "keywords": [ "Windows", "GitHub", "VSCode", "Docker", "UNIX", "Wireshark" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Information and Computer Sciences (expected Spring, 2027)",
       "studyType": "B.A.",
       "startDate": "2022-08-22",
@@ -47,7 +46,7 @@
       ]
     },
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Japanese",
       "studyType": "Minor",
       "startDate": "2022-08-22",
