@@ -39,13 +39,21 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Information and Computer Sciences (expected Fall, 2026)",
+      "area": "Information and Computer Sciences (expected Spring, 2027)",
       "studyType": "B.A.",
       "startDate": "2022-08-22",
       "endDate": "Present",
       "courses": [
       ]
-    }
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Japanese",
+      "studyType": "Minor",
+      "startDate": "2022-08-22",
+      "endDate": "2026-05-20",
+      "courses": [ "JPN 301", "JPN 302", "JPN 332", "EALL 272", "JPN 350"
+      ]
   ],
   "work": [
     {
