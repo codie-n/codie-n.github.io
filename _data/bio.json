@@ -20,11 +20,11 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": [ "C", "C++", "Java", "Javascript", "HTML/CSS", "Python", "TypeScript", "SQL"]
+      "keywords": [ "C", "C++", "Java", "HTML/CSS/Javascript", "Python", "TypeScript", "SQL"]
     },
     {
       "name": "Frameworks and Libraries",
-      "keywords": [ "NextJS", "React", "React Bootstrap", "Tailwind CSS"]
+      "keywords": [ "Next.js", "Node.js", "React Bootstrap", "Tailwind CSS"]
     },
     {
       "name": "Databases",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "GitHub", "VSCode", "Docker", "UNIX", "Wireshark" ]
+      "keywords": [ "Windows", "GitHub", "VSCode", "Docker", "UNIX", "Wireshark", "Vercel" ]
     }
   ],
   "education": [
